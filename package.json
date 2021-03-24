@@ -2,14 +2,14 @@
   "name": "gck-theme",
   "displayName": "getCodingKnowledge Theme",
   "description": "New getCodingKnowledge theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/getCodingKnowledge/vsc-gck-theme"
   },
   "bugs": {
-      "url": "https://github.com/getCodingKnowledge/vsc-gck-theme/issues"
+    "url": "https://github.com/getCodingKnowledge/vsc-gck-theme/issues"
   },
   "homepage": "https://github.com/getCodingKnowledge/vsc-gck-theme",
   "publisher": "noxaled",
@@ -17,7 +17,7 @@
     "getcodingknowledge theme",
     "getcodingknowledge",
     "gckn"
-],
+  ],
   "engines": {
     "vscode": "^1.54.0"
   },
